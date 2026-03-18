@@ -6,6 +6,7 @@ import { ShoppingCart, Star, Sparkles, Eye } from 'lucide-react';
 import Link from 'next/link';
 import { Product } from '@/lib/products';
 import { petTypes } from '@/lib/products';
+import { LazyImage } from './LazyLoad';
 
 interface ProductCardProps {
   product: Product;
@@ -36,15 +37,14 @@ export function ProductCard({ product }: ProductCardProps) {
       whileHover={{ scale: 1.02 }}
       transition={{ type: 'spring', stiffness: 300, damping: 20 }}
     >
-      {/* Image Container */}
+      {/* Image Container con Lazy Loading */}
       <Link href={`/producto/${product.id}`} className="block relative">
         <div className="aspect-square bg-gray-100 relative overflow-hidden">
-          <motion.img
+          <LazyImage
             src={product.image}
             alt={product.name}
-            className="w-full h-full object-cover"
-            whileHover={{ scale: 1.1 }}
-            transition={{ duration: 0.5 }}
+            className="transition-transform duration-500 group-hover:scale-110"
+            containerClassName="w-full h-full"
           />
           
           {/* Overlay con acciones rápidas */}
@@ -53,7 +53,7 @@ export function ProductCard({ product }: ProductCardProps) {
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.9 }}
               className="p-3 bg-white rounded-full text-gray-900 hover:text-orange-500 transition"
-              onClick={(e) => {
+              onClick={(e: React.MouseEvent<HTMLButtonElement>) => {
                 e.preventDefault();
                 e.stopPropagation();
               }}

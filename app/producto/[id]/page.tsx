@@ -1,4 +1,4 @@
-import { getProductById, individualProducts } from '@/lib/products';
+import { getProductById, individualProducts, allProducts } from '@/lib/products';
 import { notFound } from 'next/navigation';
 import { Star, Truck, Shield, RotateCcw, Package, Check } from 'lucide-react';
 import Link from 'next/link';
@@ -6,6 +6,13 @@ import { AddToCartButton } from '@/components/AddToCartButton';
 
 interface ProductPageProps {
   params: { id: string };
+}
+
+// Generar páginas estáticas para todos los productos (necesario para exportación estática)
+export function generateStaticParams() {
+  return allProducts.map((product) => ({
+    id: product.id,
+  }));
 }
 
 export default function ProductPage({ params }: ProductPageProps) {
