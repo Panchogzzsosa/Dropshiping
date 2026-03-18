@@ -8,7 +8,7 @@ interface PetTypeSelectorProps {
   onSelectPet: (petId: string) => void;
 }
 
-export default function PetTypeSelector({ selectedPet, onSelectPet }: PetTypeSelectorProps) {
+export function PetTypeSelector({ selectedPet, onSelectPet }: PetTypeSelectorProps) {
   return (
     <div className="w-full overflow-x-auto scrollbar-hide py-4">
       <div className="flex gap-3 px-4 md:justify-center min-w-max">
