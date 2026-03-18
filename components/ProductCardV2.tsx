@@ -30,6 +30,18 @@ export function ProductCardV2({ product, index = 0 }: ProductCardV2Props) {
     ? Math.round((1 - product.price / product.originalPrice) * 100)
     : 0;
 
+  const getPetEmoji = (petType: string) => {
+    const emojis: { [key: string]: string } = {
+      dog: '🐕',
+      cat: '🐈',
+      bird: '🦜',
+      rodent: '🐹',
+      fish: '🐠',
+      reptile: '🦎',
+    };
+    return emojis[petType] || '🐾';
+  };
+
   return (
     <motion.div
       initial={{ opacity: 0, y: 30 }}
@@ -39,8 +51,7 @@ export function ProductCardV2({ product, index = 0 }: ProductCardV2Props) {
       className="group relative"
     >
       <Link href={`/producto/${product.id}`}>
-        <div className="relative bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 hover:-translate-y-2"
-        >
+        <div className="relative bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 hover:-translate-y-2">
           {/* Image Container */}
           <div className="relative aspect-square overflow-hidden bg-gradient-to-br from-gray-50 to-gray-100">
             <motion.img
@@ -52,12 +63,10 @@ export function ProductCardV2({ product, index = 0 }: ProductCardV2Props) {
             />
             
             {/* Overlay on hover */}
-            <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"
-            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
             
             {/* Quick actions */}
-            <div className="absolute bottom-4 left-4 right-4 flex gap-2 translate-y-full group-hover:translate-y-0 transition-transform duration-300"
-            >
+            <div className="absolute bottom-4 left-4 right-4 flex gap-2 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
               <motion.button
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
@@ -79,15 +88,13 @@ export function ProductCardV2({ product, index = 0 }: ProductCardV2Props) {
             {/* Badges */}
             <div className="absolute top-4 left-4 flex flex-col gap-2">
               {discount > 0 && (
-                <span className="px-3 py-1 bg-[#FF6B35] text-white text-xs font-bold rounded-full"
-                >
+                <span className="px-3 py-1 bg-[#FF6B35] text-white text-xs font-bold rounded-full">
                   -{discount}%
                 </span>
               )}
               
               {product.isBundle && (
-                <span className="px-3 py-1 bg-gradient-to-r from-[#FF6B35] to-[#FFE66D] text-white text-xs font-bold rounded-full flex items-center gap-1"
-                >
+                <span className="px-3 py-1 bg-gradient-to-r from-[#FF6B35] to-[#FFE66D] text-white text-xs font-bold rounded-full flex items-center gap-1">
                   <Sparkles className="w-3 h-3" />
                   PACK
                 </span>
@@ -97,12 +104,7 @@ export function ProductCardV2({ product, index = 0 }: ProductCardV2Props) {
             {/* Pet type indicator */}
             <div className="absolute top-4 right-4">
               <span className="w-10 h-10 bg-white/90 backdrop-blur-sm rounded-full flex items-center justify-center text-lg shadow-sm">
-                {product.petType === 'dog' && '🐕'}
-                {product.petType === 'cat' && '🐈'}
-                {product.petType === 'bird' && '🦜'}
-                {product.petType === 'rodent' && '🐹'}
-                {product.petType === 'fish' && '🐠'}
-                {product.petType === 'reptile' && '🦎'}
+                {getPetEmoji(product.petType)}
               </span>
             </div>
           </div>
@@ -151,8 +153,7 @@ export function ProductCardV2({ product, index = 0 }: ProductCardV2Props) {
 
             {/* Savings */}
             {product.savings && (
-              <div className="mt-3 inline-flex items-center gap-1 px-3 py-1 bg-green-50 text-green-600 text-xs font-medium rounded-full"
-003e
+              <div className="mt-3 inline-flex items-center gap-1 px-3 py-1 bg-green-50 text-green-600 text-xs font-medium rounded-full">
                 <Sparkles className="w-3 h-3" />
                 Ahorras ${product.savings.toFixed(2)}
               </div>
