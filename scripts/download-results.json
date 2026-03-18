@@ -1,0 +1,137 @@
+{
+  "success": [],
+  "failed": [
+    {
+      "sku": "CJDOG001",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJDOG002",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJDOG003",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJDOG004",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJDOG005",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJDOG006",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJDOG007",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJCAT001",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJCAT002",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJCAT003",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJCAT004",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJCAT005",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJCAT006",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJCAT007",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJBIRD001",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJBIRD002",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJBIRD003",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJBIRD004",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJBIRD005",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJROD001",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJROD002",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJROD003",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJROD004",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJROD005",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJFISH001",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJFISH002",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJFISH003",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJFISH004",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJFISH005",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJREP001",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJREP002",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJREP003",
+      "reason": "No products found"
+    },
+    {
+      "sku": "CJREP004",
+      "reason": "No products found"
+    }
+  ]
+}
