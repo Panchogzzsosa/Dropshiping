@@ -1,0 +1,500 @@
+[
+  {
+    "day": 1,
+    "date": "2026-02-28",
+    "type": "educational",
+    "typeName": "Tip Educativo",
+    "product": {
+      "name": "Terrario de Cristal 60x40x40cm",
+      "price": 129.99,
+      "originalPrice": 159.99,
+      "petType": "reptil",
+      "cjSku": "CJREP001"
+    },
+    "imagePrompt": "Instagram infographic about pet care tips for reptil, modern flat design, icons, orange and teal colors, easy to read typography, engaging layout",
+    "caption": "💡 SABÍAS QUE...\n\nTu reptil necesita estimulación mental para ser feliz 🧠🦎\n\nUn reptil aburrido puede desarrollar comportamientos destructivos. Los juguetes interactivos como nuestro Terrario de Cristal 60x40x40cm son la solución perfecta.\n\n✅ Reduce ansiedad\n✅ Ejercita la mente\n✅ Diversión garantizada\n\n💬 ¿Tu reptil muestra signos de aburrimiento? Cuéntanos 👇\n\nGuarda este post para recordarlo 📌\n\n#BuenAmigo #TipsMascotas #CuidadoReptil #EducaciónPet #MascotasMexico",
+    "hashtags": "#BuenAmigo #reptilMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 2,
+    "date": "2026-03-01",
+    "type": "lifestyle",
+    "typeName": "Estilo de Vida",
+    "product": {
+      "name": "Acuario Completo 20 Litros",
+      "price": 89.99,
+      "originalPrice": 119.99,
+      "petType": "pez",
+      "cjSku": "CJFISH001"
+    },
+    "imagePrompt": "Lifestyle photo of happy pez using \"Acuario Completo 20 Litros\" in modern home setting, natural window light, cozy atmosphere, Instagram aesthetic, candid moment, warm tones",
+    "caption": "Así de feliz está tu pez con Acuario Completo 20 Litros 💙🐠\n\nKit todo incluido con filtro\n\n📦 Envío a todo México\n✨ Garantía de satisfacción\n\n💬 ¿A tu mascota le gustaría? Cuéntanos en los comentarios 👇\n\n#BuenAmigo #MascotasFelices #pez #PetLoversMexico",
+    "hashtags": "#BuenAmigo #pezMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 3,
+    "date": "2026-03-02",
+    "type": "product",
+    "typeName": "Nuevo Producto",
+    "product": {
+      "name": "Juguete Interactivo Inteligente",
+      "price": 24.99,
+      "petType": "perro",
+      "cjSku": "CJDOG001"
+    },
+    "imagePrompt": "Professional product photography of \"Juguete Interactivo Inteligente\" for perro, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "¿Tu perro necesita esto? 🐕✨\n\nJuguete Interactivo Inteligente\n\n✅ Bola automática con movimiento impredecible\n✅ Calidad premium garantizada\n✅ Envío gratis en compras +$499\n\n💰 $24.99 MXN\n\n\n🔗 Link en bio para comprar\n👇 Comenta \"INFO\" para más detalles\n\n¿Qué le comprarías a tu peludo amigo? 🐾\n.\n.\n.\n#BuenAmigo #PerroMexico #PetLovers #ProductosParaMascotas #Mexico #TiendaDeMascotas #MascotasFelices #CuidadoAnimal",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 4,
+    "date": "2026-03-03",
+    "type": "bundle",
+    "typeName": "Pack Especial",
+    "product": {
+      "name": "Fuente de Agua Automática",
+      "price": 39.99,
+      "originalPrice": 49.99,
+      "petType": "perro",
+      "cjSku": "CJDOG005"
+    },
+    "imagePrompt": "Professional product photography of \"Fuente de Agua Automática\" for perro, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "🎁 PACK ESPECIAL DE FIN DE SEMANA 🎁\n\nLleva TODO lo que tu perro necesita:\n\n✅ Fuente de Agua Automática\n✅ Accesorios premium\n✅ Envío gratis\n\n💰 Solo $32.00 MXN\n❌ Valor normal: $52.00 MXN\n💸 Ahorras: $20.00 MXN\n\n⚠️ Solo 10 unidades disponibles\n\n🔗 Link en bio para aprovechar\n\n¿Para qué mascota es este pack? 🐕 Comenta 👇\n\n#BuenAmigo #Promo #Oferta #Bundle #perroMexico",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 5,
+    "date": "2026-03-04",
+    "type": "testimonial",
+    "typeName": "Testimonio Cliente",
+    "product": {
+      "name": "Guante Quitapelos Mágico",
+      "price": 18.99,
+      "petType": "perro",
+      "cjSku": "CJDOG004"
+    },
+    "imagePrompt": "Happy perro with satisfied expression, natural lighting, cozy home background, bokeh effect, Instagram portrait style, warm and inviting",
+    "caption": "⭐ CLIENTE FELIZ ⭐\n\n\"A mi perro le encantó su Guante Quitapelos Mágico. ¡No lo suelta desde que llegó! La mejor compra que he hecho.\" 💙\n\n— María G. y su perro Luna 🐕\n\nNos encanta ver a nuestras mascotas clientes disfrutando sus productos 🥰\n\n¿Quieres que tu mascota aparezca aquí?\n📸 Súbete foto usando nuestros productos con #BuenAmigo y etiquétanos\n\n🛒 Link en bio para unirte a la familia\n\n#BuenAmigo #Testimonio #ClientesFelices #perroMexico",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 6,
+    "date": "2026-03-05",
+    "type": "behind",
+    "typeName": "Detrás de Cámaras",
+    "product": {
+      "name": "Cama Ortopédica Memory Foam",
+      "price": 59.99,
+      "originalPrice": 79.99,
+      "petType": "perro",
+      "cjSku": "CJDOG007"
+    },
+    "imagePrompt": "Professional product photography of \"Cama Ortopédica Memory Foam\" for perro, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "📦 DETRÁS DE CÁMARAS 📦\n\nAsí empacamos cada pedido con amor 💙\n\nEn BuenAmigo cada caja incluye:\n✨ Producto verificado y probado\n✨ Stickers exclusivos de mascotas\n✨ Guía de cuidado personalizada\n✨ Sorpresita para tu peludo amigo\n\n¿Ya recibiste tu pedido? Cuéntanos qué te pareció en los comentarios 👇\n\n— El equipo BuenAmigo 🐕\n\n#BuenAmigo #BehindTheScenes #Equipo #EmprendedorMexico #HechoConAmor",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "11:00 AM"
+  },
+  {
+    "day": 7,
+    "date": "2026-03-06",
+    "type": "product",
+    "typeName": "Producto Destacado",
+    "product": {
+      "name": "Jaula Deluxe para Loros",
+      "price": 149.99,
+      "originalPrice": 189.99,
+      "petType": "ave",
+      "cjSku": "CJBIRD001"
+    },
+    "imagePrompt": "Professional product photography of \"Jaula Deluxe para Loros\" for ave, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "¿Tu ave necesita esto? 🦜✨\n\nJaula Deluxe para Loros\n\n✅ Jaula espaciosa de 120cm\n✅ Calidad premium garantizada\n✅ Envío gratis en compras +$499\n\n💰 $149.99 MXN\n🔥 Oferta especial (Antes $189.99)\n\n🔗 Link en bio para comprar\n👇 Comenta \"INFO\" para más detalles\n\n¿Qué le comprarías a tu peludo amigo? 🐾\n.\n.\n.\n#BuenAmigo #AveMexico #PetLovers #ProductosParaMascotas #Mexico #TiendaDeMascotas #MascotasFelices #CuidadoAnimal",
+    "hashtags": "#BuenAmigo #aveMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "11:00 AM"
+  },
+  {
+    "day": 8,
+    "date": "2026-03-07",
+    "type": "educational",
+    "typeName": "Tip Educativo",
+    "product": {
+      "name": "Fuente Flor de Agua para Gatos",
+      "price": 29.99,
+      "originalPrice": 39.99,
+      "petType": "gato",
+      "cjSku": "CJCAT003"
+    },
+    "imagePrompt": "Instagram infographic about pet care tips for gato, modern flat design, icons, orange and teal colors, easy to read typography, engaging layout",
+    "caption": "💡 SABÍAS QUE...\n\nTu gato necesita estimulación mental para ser feliz 🧠🐈\n\nUn gato aburrido puede desarrollar comportamientos destructivos. Los juguetes interactivos como nuestro Fuente Flor de Agua para Gatos son la solución perfecta.\n\n✅ Reduce ansiedad\n✅ Ejercita la mente\n✅ Diversión garantizada\n\n💬 ¿Tu gato muestra signos de aburrimiento? Cuéntanos 👇\n\nGuarda este post para recordarlo 📌\n\n#BuenAmigo #TipsMascotas #CuidadoGato #EducaciónPet #MascotasMexico",
+    "hashtags": "#BuenAmigo #gatoMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 9,
+    "date": "2026-03-08",
+    "type": "lifestyle",
+    "typeName": "Estilo de Vida",
+    "product": {
+      "name": "Varita con Plumas Interactiva",
+      "price": 8.99,
+      "petType": "gato",
+      "cjSku": "CJCAT002"
+    },
+    "imagePrompt": "Lifestyle photo of happy gato using \"Varita con Plumas Interactiva\" in modern home setting, natural window light, cozy atmosphere, Instagram aesthetic, candid moment, warm tones",
+    "caption": "Así de feliz está tu gato con Varita con Plumas Interactiva 💙🐈\n\nVarita extensible con plumas naturales\n\n📦 Envío a todo México\n✨ Garantía de satisfacción\n\n💬 ¿A tu mascota le gustaría? Cuéntanos en los comentarios 👇\n\n#BuenAmigo #MascotasFelices #gato #PetLoversMexico",
+    "hashtags": "#BuenAmigo #gatoMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 10,
+    "date": "2026-03-09",
+    "type": "product",
+    "typeName": "Nuevo Producto",
+    "product": {
+      "name": "Rascador Circular de Cartón",
+      "price": 19.99,
+      "petType": "gato",
+      "cjSku": "CJCAT001"
+    },
+    "imagePrompt": "Professional product photography of \"Rascador Circular de Cartón\" for gato, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "¿Tu gato necesita esto? 🐈✨\n\nRascador Circular de Cartón\n\n✅ Rascador duradero con diseño circular\n✅ Calidad premium garantizada\n✅ Envío gratis en compras +$499\n\n💰 $19.99 MXN\n\n\n🔗 Link en bio para comprar\n👇 Comenta \"INFO\" para más detalles\n\n¿Qué le comprarías a tu peludo amigo? 🐾\n.\n.\n.\n#BuenAmigo #GatoMexico #PetLovers #ProductosParaMascotas #Mexico #TiendaDeMascotas #MascotasFelices #CuidadoAnimal",
+    "hashtags": "#BuenAmigo #gatoMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 11,
+    "date": "2026-03-10",
+    "type": "bundle",
+    "typeName": "Pack Especial",
+    "product": {
+      "name": "Habitat Deluxe para Hámsters",
+      "price": 69.99,
+      "originalPrice": 89.99,
+      "petType": "roedor",
+      "cjSku": "CJROD001"
+    },
+    "imagePrompt": "Professional product photography of \"Habitat Deluxe para Hámsters\" for roedor, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "🎁 PACK ESPECIAL DE FIN DE SEMANA 🎁\n\nLleva TODO lo que tu roedor necesita:\n\n✅ Habitat Deluxe para Hámsters\n✅ Accesorios premium\n✅ Envío gratis\n\n💰 Solo $56.00 MXN\n❌ Valor normal: $91.00 MXN\n💸 Ahorras: $35.00 MXN\n\n⚠️ Solo 10 unidades disponibles\n\n🔗 Link en bio para aprovechar\n\n¿Para qué mascota es este pack? 🐹 Comenta 👇\n\n#BuenAmigo #Promo #Oferta #Bundle #roedorMexico",
+    "hashtags": "#BuenAmigo #roedorMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 12,
+    "date": "2026-03-11",
+    "type": "testimonial",
+    "typeName": "Testimonio Cliente",
+    "product": {
+      "name": "Pelota con Sonido Chip-Chip",
+      "price": 12.99,
+      "petType": "perro",
+      "cjSku": "CJDOG002"
+    },
+    "imagePrompt": "Happy perro with satisfied expression, natural lighting, cozy home background, bokeh effect, Instagram portrait style, warm and inviting",
+    "caption": "⭐ CLIENTE FELIZ ⭐\n\n\"A mi perro le encantó su Pelota con Sonido Chip-Chip. ¡No lo suelta desde que llegó! La mejor compra que he hecho.\" 💙\n\n— María G. y su perro Luna 🐕\n\nNos encanta ver a nuestras mascotas clientes disfrutando sus productos 🥰\n\n¿Quieres que tu mascota aparezca aquí?\n📸 Súbete foto usando nuestros productos con #BuenAmigo y etiquétanos\n\n🛒 Link en bio para unirte a la familia\n\n#BuenAmigo #Testimonio #ClientesFelices #perroMexico",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 13,
+    "date": "2026-03-12",
+    "type": "behind",
+    "typeName": "Detrás de Cámaras",
+    "product": {
+      "name": "Terrario de Cristal 60x40x40cm",
+      "price": 129.99,
+      "originalPrice": 159.99,
+      "petType": "reptil",
+      "cjSku": "CJREP001"
+    },
+    "imagePrompt": "Professional product photography of \"Terrario de Cristal 60x40x40cm\" for reptil, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "📦 DETRÁS DE CÁMARAS 📦\n\nAsí empacamos cada pedido con amor 💙\n\nEn BuenAmigo cada caja incluye:\n✨ Producto verificado y probado\n✨ Stickers exclusivos de mascotas\n✨ Guía de cuidado personalizada\n✨ Sorpresita para tu peludo amigo\n\n¿Ya recibiste tu pedido? Cuéntanos qué te pareció en los comentarios 👇\n\n— El equipo BuenAmigo 🦎\n\n#BuenAmigo #BehindTheScenes #Equipo #EmprendedorMexico #HechoConAmor",
+    "hashtags": "#BuenAmigo #reptilMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "11:00 AM"
+  },
+  {
+    "day": 14,
+    "date": "2026-03-13",
+    "type": "product",
+    "typeName": "Producto Destacado",
+    "product": {
+      "name": "Acuario Completo 20 Litros",
+      "price": 89.99,
+      "originalPrice": 119.99,
+      "petType": "pez",
+      "cjSku": "CJFISH001"
+    },
+    "imagePrompt": "Professional product photography of \"Acuario Completo 20 Litros\" for pez, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "¿Tu pez necesita esto? 🐠✨\n\nAcuario Completo 20 Litros\n\n✅ Kit todo incluido con filtro\n✅ Calidad premium garantizada\n✅ Envío gratis en compras +$499\n\n💰 $89.99 MXN\n🔥 Oferta especial (Antes $119.99)\n\n🔗 Link en bio para comprar\n👇 Comenta \"INFO\" para más detalles\n\n¿Qué le comprarías a tu peludo amigo? 🐾\n.\n.\n.\n#BuenAmigo #PezMexico #PetLovers #ProductosParaMascotas #Mexico #TiendaDeMascotas #MascotasFelices #CuidadoAnimal",
+    "hashtags": "#BuenAmigo #pezMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "11:00 AM"
+  },
+  {
+    "day": 15,
+    "date": "2026-03-14",
+    "type": "educational",
+    "typeName": "Tip Educativo",
+    "product": {
+      "name": "Juguete Interactivo Inteligente",
+      "price": 24.99,
+      "petType": "perro",
+      "cjSku": "CJDOG001"
+    },
+    "imagePrompt": "Instagram infographic about pet care tips for perro, modern flat design, icons, orange and teal colors, easy to read typography, engaging layout",
+    "caption": "💡 SABÍAS QUE...\n\nTu perro necesita estimulación mental para ser feliz 🧠🐕\n\nUn perro aburrido puede desarrollar comportamientos destructivos. Los juguetes interactivos como nuestro Juguete Interactivo Inteligente son la solución perfecta.\n\n✅ Reduce ansiedad\n✅ Ejercita la mente\n✅ Diversión garantizada\n\n💬 ¿Tu perro muestra signos de aburrimiento? Cuéntanos 👇\n\nGuarda este post para recordarlo 📌\n\n#BuenAmigo #TipsMascotas #CuidadoPerro #EducaciónPet #MascotasMexico",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 16,
+    "date": "2026-03-15",
+    "type": "lifestyle",
+    "typeName": "Estilo de Vida",
+    "product": {
+      "name": "Fuente de Agua Automática",
+      "price": 39.99,
+      "originalPrice": 49.99,
+      "petType": "perro",
+      "cjSku": "CJDOG005"
+    },
+    "imagePrompt": "Lifestyle photo of happy perro using \"Fuente de Agua Automática\" in modern home setting, natural window light, cozy atmosphere, Instagram aesthetic, candid moment, warm tones",
+    "caption": "Así de feliz está tu perro con Fuente de Agua Automática 💙🐕\n\nFuente de 2.4L con filtro\n\n📦 Envío a todo México\n✨ Garantía de satisfacción\n\n💬 ¿A tu mascota le gustaría? Cuéntanos en los comentarios 👇\n\n#BuenAmigo #MascotasFelices #perro #PetLoversMexico",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 17,
+    "date": "2026-03-16",
+    "type": "product",
+    "typeName": "Nuevo Producto",
+    "product": {
+      "name": "Guante Quitapelos Mágico",
+      "price": 18.99,
+      "petType": "perro",
+      "cjSku": "CJDOG004"
+    },
+    "imagePrompt": "Professional product photography of \"Guante Quitapelos Mágico\" for perro, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "¿Tu perro necesita esto? 🐕✨\n\nGuante Quitapelos Mágico\n\n✅ Guante de silicona con 255 pines\n✅ Calidad premium garantizada\n✅ Envío gratis en compras +$499\n\n💰 $18.99 MXN\n\n\n🔗 Link en bio para comprar\n👇 Comenta \"INFO\" para más detalles\n\n¿Qué le comprarías a tu peludo amigo? 🐾\n.\n.\n.\n#BuenAmigo #PerroMexico #PetLovers #ProductosParaMascotas #Mexico #TiendaDeMascotas #MascotasFelices #CuidadoAnimal",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 18,
+    "date": "2026-03-17",
+    "type": "bundle",
+    "typeName": "Pack Especial",
+    "product": {
+      "name": "Cama Ortopédica Memory Foam",
+      "price": 59.99,
+      "originalPrice": 79.99,
+      "petType": "perro",
+      "cjSku": "CJDOG007"
+    },
+    "imagePrompt": "Professional product photography of \"Cama Ortopédica Memory Foam\" for perro, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "🎁 PACK ESPECIAL DE FIN DE SEMANA 🎁\n\nLleva TODO lo que tu perro necesita:\n\n✅ Cama Ortopédica Memory Foam\n✅ Accesorios premium\n✅ Envío gratis\n\n💰 Solo $48.00 MXN\n❌ Valor normal: $78.00 MXN\n💸 Ahorras: $30.00 MXN\n\n⚠️ Solo 10 unidades disponibles\n\n🔗 Link en bio para aprovechar\n\n¿Para qué mascota es este pack? 🐕 Comenta 👇\n\n#BuenAmigo #Promo #Oferta #Bundle #perroMexico",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 19,
+    "date": "2026-03-18",
+    "type": "testimonial",
+    "typeName": "Testimonio Cliente",
+    "product": {
+      "name": "Jaula Deluxe para Loros",
+      "price": 149.99,
+      "originalPrice": 189.99,
+      "petType": "ave",
+      "cjSku": "CJBIRD001"
+    },
+    "imagePrompt": "Happy ave with satisfied expression, natural lighting, cozy home background, bokeh effect, Instagram portrait style, warm and inviting",
+    "caption": "⭐ CLIENTE FELIZ ⭐\n\n\"A mi ave le encantó su Jaula Deluxe para Loros. ¡No lo suelta desde que llegó! La mejor compra que he hecho.\" 💙\n\n— María G. y su ave Luna 🦜\n\nNos encanta ver a nuestras mascotas clientes disfrutando sus productos 🥰\n\n¿Quieres que tu mascota aparezca aquí?\n📸 Súbete foto usando nuestros productos con #BuenAmigo y etiquétanos\n\n🛒 Link en bio para unirte a la familia\n\n#BuenAmigo #Testimonio #ClientesFelices #aveMexico",
+    "hashtags": "#BuenAmigo #aveMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 20,
+    "date": "2026-03-19",
+    "type": "behind",
+    "typeName": "Detrás de Cámaras",
+    "product": {
+      "name": "Fuente Flor de Agua para Gatos",
+      "price": 29.99,
+      "originalPrice": 39.99,
+      "petType": "gato",
+      "cjSku": "CJCAT003"
+    },
+    "imagePrompt": "Professional product photography of \"Fuente Flor de Agua para Gatos\" for gato, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "📦 DETRÁS DE CÁMARAS 📦\n\nAsí empacamos cada pedido con amor 💙\n\nEn BuenAmigo cada caja incluye:\n✨ Producto verificado y probado\n✨ Stickers exclusivos de mascotas\n✨ Guía de cuidado personalizada\n✨ Sorpresita para tu peludo amigo\n\n¿Ya recibiste tu pedido? Cuéntanos qué te pareció en los comentarios 👇\n\n— El equipo BuenAmigo 🐈\n\n#BuenAmigo #BehindTheScenes #Equipo #EmprendedorMexico #HechoConAmor",
+    "hashtags": "#BuenAmigo #gatoMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "11:00 AM"
+  },
+  {
+    "day": 21,
+    "date": "2026-03-20",
+    "type": "product",
+    "typeName": "Producto Destacado",
+    "product": {
+      "name": "Varita con Plumas Interactiva",
+      "price": 8.99,
+      "petType": "gato",
+      "cjSku": "CJCAT002"
+    },
+    "imagePrompt": "Professional product photography of \"Varita con Plumas Interactiva\" for gato, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "¿Tu gato necesita esto? 🐈✨\n\nVarita con Plumas Interactiva\n\n✅ Varita extensible con plumas naturales\n✅ Calidad premium garantizada\n✅ Envío gratis en compras +$499\n\n💰 $8.99 MXN\n\n\n🔗 Link en bio para comprar\n👇 Comenta \"INFO\" para más detalles\n\n¿Qué le comprarías a tu peludo amigo? 🐾\n.\n.\n.\n#BuenAmigo #GatoMexico #PetLovers #ProductosParaMascotas #Mexico #TiendaDeMascotas #MascotasFelices #CuidadoAnimal",
+    "hashtags": "#BuenAmigo #gatoMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "11:00 AM"
+  },
+  {
+    "day": 22,
+    "date": "2026-03-21",
+    "type": "educational",
+    "typeName": "Tip Educativo",
+    "product": {
+      "name": "Rascador Circular de Cartón",
+      "price": 19.99,
+      "petType": "gato",
+      "cjSku": "CJCAT001"
+    },
+    "imagePrompt": "Instagram infographic about pet care tips for gato, modern flat design, icons, orange and teal colors, easy to read typography, engaging layout",
+    "caption": "💡 SABÍAS QUE...\n\nTu gato necesita estimulación mental para ser feliz 🧠🐈\n\nUn gato aburrido puede desarrollar comportamientos destructivos. Los juguetes interactivos como nuestro Rascador Circular de Cartón son la solución perfecta.\n\n✅ Reduce ansiedad\n✅ Ejercita la mente\n✅ Diversión garantizada\n\n💬 ¿Tu gato muestra signos de aburrimiento? Cuéntanos 👇\n\nGuarda este post para recordarlo 📌\n\n#BuenAmigo #TipsMascotas #CuidadoGato #EducaciónPet #MascotasMexico",
+    "hashtags": "#BuenAmigo #gatoMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 23,
+    "date": "2026-03-22",
+    "type": "lifestyle",
+    "typeName": "Estilo de Vida",
+    "product": {
+      "name": "Habitat Deluxe para Hámsters",
+      "price": 69.99,
+      "originalPrice": 89.99,
+      "petType": "roedor",
+      "cjSku": "CJROD001"
+    },
+    "imagePrompt": "Lifestyle photo of happy roedor using \"Habitat Deluxe para Hámsters\" in modern home setting, natural window light, cozy atmosphere, Instagram aesthetic, candid moment, warm tones",
+    "caption": "Así de feliz está tu roedor con Habitat Deluxe para Hámsters 💙🐹\n\nJaula de 3 niveles con túneles\n\n📦 Envío a todo México\n✨ Garantía de satisfacción\n\n💬 ¿A tu mascota le gustaría? Cuéntanos en los comentarios 👇\n\n#BuenAmigo #MascotasFelices #roedor #PetLoversMexico",
+    "hashtags": "#BuenAmigo #roedorMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 24,
+    "date": "2026-03-23",
+    "type": "product",
+    "typeName": "Nuevo Producto",
+    "product": {
+      "name": "Pelota con Sonido Chip-Chip",
+      "price": 12.99,
+      "petType": "perro",
+      "cjSku": "CJDOG002"
+    },
+    "imagePrompt": "Professional product photography of \"Pelota con Sonido Chip-Chip\" for perro, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "¿Tu perro necesita esto? 🐕✨\n\nPelota con Sonido Chip-Chip\n\n✅ Pelota resistente con sonido\n✅ Calidad premium garantizada\n✅ Envío gratis en compras +$499\n\n💰 $12.99 MXN\n\n\n🔗 Link en bio para comprar\n👇 Comenta \"INFO\" para más detalles\n\n¿Qué le comprarías a tu peludo amigo? 🐾\n.\n.\n.\n#BuenAmigo #PerroMexico #PetLovers #ProductosParaMascotas #Mexico #TiendaDeMascotas #MascotasFelices #CuidadoAnimal",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 25,
+    "date": "2026-03-24",
+    "type": "bundle",
+    "typeName": "Pack Especial",
+    "product": {
+      "name": "Terrario de Cristal 60x40x40cm",
+      "price": 129.99,
+      "originalPrice": 159.99,
+      "petType": "reptil",
+      "cjSku": "CJREP001"
+    },
+    "imagePrompt": "Professional product photography of \"Terrario de Cristal 60x40x40cm\" for reptil, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "🎁 PACK ESPECIAL DE FIN DE SEMANA 🎁\n\nLleva TODO lo que tu reptil necesita:\n\n✅ Terrario de Cristal 60x40x40cm\n✅ Accesorios premium\n✅ Envío gratis\n\n💰 Solo $104.00 MXN\n❌ Valor normal: $169.00 MXN\n💸 Ahorras: $65.00 MXN\n\n⚠️ Solo 10 unidades disponibles\n\n🔗 Link en bio para aprovechar\n\n¿Para qué mascota es este pack? 🦎 Comenta 👇\n\n#BuenAmigo #Promo #Oferta #Bundle #reptilMexico",
+    "hashtags": "#BuenAmigo #reptilMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 26,
+    "date": "2026-03-25",
+    "type": "testimonial",
+    "typeName": "Testimonio Cliente",
+    "product": {
+      "name": "Acuario Completo 20 Litros",
+      "price": 89.99,
+      "originalPrice": 119.99,
+      "petType": "pez",
+      "cjSku": "CJFISH001"
+    },
+    "imagePrompt": "Happy pez with satisfied expression, natural lighting, cozy home background, bokeh effect, Instagram portrait style, warm and inviting",
+    "caption": "⭐ CLIENTE FELIZ ⭐\n\n\"A mi pez le encantó su Acuario Completo 20 Litros. ¡No lo suelta desde que llegó! La mejor compra que he hecho.\" 💙\n\n— María G. y su pez Luna 🐠\n\nNos encanta ver a nuestras mascotas clientes disfrutando sus productos 🥰\n\n¿Quieres que tu mascota aparezca aquí?\n📸 Súbete foto usando nuestros productos con #BuenAmigo y etiquétanos\n\n🛒 Link en bio para unirte a la familia\n\n#BuenAmigo #Testimonio #ClientesFelices #pezMexico",
+    "hashtags": "#BuenAmigo #pezMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 27,
+    "date": "2026-03-26",
+    "type": "behind",
+    "typeName": "Detrás de Cámaras",
+    "product": {
+      "name": "Juguete Interactivo Inteligente",
+      "price": 24.99,
+      "petType": "perro",
+      "cjSku": "CJDOG001"
+    },
+    "imagePrompt": "Professional product photography of \"Juguete Interactivo Inteligente\" for perro, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "📦 DETRÁS DE CÁMARAS 📦\n\nAsí empacamos cada pedido con amor 💙\n\nEn BuenAmigo cada caja incluye:\n✨ Producto verificado y probado\n✨ Stickers exclusivos de mascotas\n✨ Guía de cuidado personalizada\n✨ Sorpresita para tu peludo amigo\n\n¿Ya recibiste tu pedido? Cuéntanos qué te pareció en los comentarios 👇\n\n— El equipo BuenAmigo 🐕\n\n#BuenAmigo #BehindTheScenes #Equipo #EmprendedorMexico #HechoConAmor",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "11:00 AM"
+  },
+  {
+    "day": 28,
+    "date": "2026-03-27",
+    "type": "product",
+    "typeName": "Producto Destacado",
+    "product": {
+      "name": "Fuente de Agua Automática",
+      "price": 39.99,
+      "originalPrice": 49.99,
+      "petType": "perro",
+      "cjSku": "CJDOG005"
+    },
+    "imagePrompt": "Professional product photography of \"Fuente de Agua Automática\" for perro, clean white background, soft studio lighting, 4K quality, e-commerce catalog style, high-end pet product aesthetic",
+    "caption": "¿Tu perro necesita esto? 🐕✨\n\nFuente de Agua Automática\n\n✅ Fuente de 2.4L con filtro\n✅ Calidad premium garantizada\n✅ Envío gratis en compras +$499\n\n💰 $39.99 MXN\n🔥 Oferta especial (Antes $49.99)\n\n🔗 Link en bio para comprar\n👇 Comenta \"INFO\" para más detalles\n\n¿Qué le comprarías a tu peludo amigo? 🐾\n.\n.\n.\n#BuenAmigo #PerroMexico #PetLovers #ProductosParaMascotas #Mexico #TiendaDeMascotas #MascotasFelices #CuidadoAnimal",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "11:00 AM"
+  },
+  {
+    "day": 29,
+    "date": "2026-03-28",
+    "type": "educational",
+    "typeName": "Tip Educativo",
+    "product": {
+      "name": "Guante Quitapelos Mágico",
+      "price": 18.99,
+      "petType": "perro",
+      "cjSku": "CJDOG004"
+    },
+    "imagePrompt": "Instagram infographic about pet care tips for perro, modern flat design, icons, orange and teal colors, easy to read typography, engaging layout",
+    "caption": "💡 SABÍAS QUE...\n\nTu perro necesita estimulación mental para ser feliz 🧠🐕\n\nUn perro aburrido puede desarrollar comportamientos destructivos. Los juguetes interactivos como nuestro Guante Quitapelos Mágico son la solución perfecta.\n\n✅ Reduce ansiedad\n✅ Ejercita la mente\n✅ Diversión garantizada\n\n💬 ¿Tu perro muestra signos de aburrimiento? Cuéntanos 👇\n\nGuarda este post para recordarlo 📌\n\n#BuenAmigo #TipsMascotas #CuidadoPerro #EducaciónPet #MascotasMexico",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  },
+  {
+    "day": 30,
+    "date": "2026-03-29",
+    "type": "lifestyle",
+    "typeName": "Estilo de Vida",
+    "product": {
+      "name": "Cama Ortopédica Memory Foam",
+      "price": 59.99,
+      "originalPrice": 79.99,
+      "petType": "perro",
+      "cjSku": "CJDOG007"
+    },
+    "imagePrompt": "Lifestyle photo of happy perro using \"Cama Ortopédica Memory Foam\" in modern home setting, natural window light, cozy atmosphere, Instagram aesthetic, candid moment, warm tones",
+    "caption": "Así de feliz está tu perro con Cama Ortopédica Memory Foam 💙🐕\n\nCama ergonómica con espuma\n\n📦 Envío a todo México\n✨ Garantía de satisfacción\n\n💬 ¿A tu mascota le gustaría? Cuéntanos en los comentarios 👇\n\n#BuenAmigo #MascotasFelices #perro #PetLoversMexico",
+    "hashtags": "#BuenAmigo #perroMexico #PetLovers #ProductosParaMascotas #Mexico",
+    "bestTime": "1:00 PM"
+  }
+]

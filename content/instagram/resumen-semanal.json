@@ -1,0 +1,190 @@
+[
+  {
+    "week": 1,
+    "posts": [
+      {
+        "day": 1,
+        "type": "Tip Educativo",
+        "product": "Terrario de Cristal 60x40x40cm",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 2,
+        "type": "Estilo de Vida",
+        "product": "Acuario Completo 20 Litros",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 3,
+        "type": "Nuevo Producto",
+        "product": "Juguete Interactivo Inteligente",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 4,
+        "type": "Pack Especial",
+        "product": "Fuente de Agua Automática",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 5,
+        "type": "Testimonio Cliente",
+        "product": "Guante Quitapelos Mágico",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 6,
+        "type": "Detrás de Cámaras",
+        "product": "Cama Ortopédica Memory Foam",
+        "time": "11:00 AM"
+      },
+      {
+        "day": 7,
+        "type": "Producto Destacado",
+        "product": "Jaula Deluxe para Loros",
+        "time": "11:00 AM"
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "posts": [
+      {
+        "day": 8,
+        "type": "Tip Educativo",
+        "product": "Fuente Flor de Agua para Gatos",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 9,
+        "type": "Estilo de Vida",
+        "product": "Varita con Plumas Interactiva",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 10,
+        "type": "Nuevo Producto",
+        "product": "Rascador Circular de Cartón",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 11,
+        "type": "Pack Especial",
+        "product": "Habitat Deluxe para Hámsters",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 12,
+        "type": "Testimonio Cliente",
+        "product": "Pelota con Sonido Chip-Chip",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 13,
+        "type": "Detrás de Cámaras",
+        "product": "Terrario de Cristal 60x40x40cm",
+        "time": "11:00 AM"
+      },
+      {
+        "day": 14,
+        "type": "Producto Destacado",
+        "product": "Acuario Completo 20 Litros",
+        "time": "11:00 AM"
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "posts": [
+      {
+        "day": 15,
+        "type": "Tip Educativo",
+        "product": "Juguete Interactivo Inteligente",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 16,
+        "type": "Estilo de Vida",
+        "product": "Fuente de Agua Automática",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 17,
+        "type": "Nuevo Producto",
+        "product": "Guante Quitapelos Mágico",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 18,
+        "type": "Pack Especial",
+        "product": "Cama Ortopédica Memory Foam",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 19,
+        "type": "Testimonio Cliente",
+        "product": "Jaula Deluxe para Loros",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 20,
+        "type": "Detrás de Cámaras",
+        "product": "Fuente Flor de Agua para Gatos",
+        "time": "11:00 AM"
+      },
+      {
+        "day": 21,
+        "type": "Producto Destacado",
+        "product": "Varita con Plumas Interactiva",
+        "time": "11:00 AM"
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "posts": [
+      {
+        "day": 22,
+        "type": "Tip Educativo",
+        "product": "Rascador Circular de Cartón",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 23,
+        "type": "Estilo de Vida",
+        "product": "Habitat Deluxe para Hámsters",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 24,
+        "type": "Nuevo Producto",
+        "product": "Pelota con Sonido Chip-Chip",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 25,
+        "type": "Pack Especial",
+        "product": "Terrario de Cristal 60x40x40cm",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 26,
+        "type": "Testimonio Cliente",
+        "product": "Acuario Completo 20 Litros",
+        "time": "1:00 PM"
+      },
+      {
+        "day": 27,
+        "type": "Detrás de Cámaras",
+        "product": "Juguete Interactivo Inteligente",
+        "time": "11:00 AM"
+      },
+      {
+        "day": 28,
+        "type": "Producto Destacado",
+        "product": "Fuente de Agua Automática",
+        "time": "11:00 AM"
+      }
+    ]
+  }
+]
